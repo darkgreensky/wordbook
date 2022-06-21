@@ -28,6 +28,8 @@
 
 ---
 
+[wordbook.zip](https://github.com/darkgreensky/wordbook/releases/tag/0.1)
+
 开发用的QT 6.3
 
 2022.6.21
