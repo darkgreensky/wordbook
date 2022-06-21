@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>static/images/登录.ico</file>
+        <file>static/images/注册登录.ico</file>
+        <file>static/images/bubu.ico</file>
+        <file>static/images/刷新.png</file>
+    </qresource>
+</RCC>
