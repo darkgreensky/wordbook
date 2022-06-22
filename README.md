@@ -29,6 +29,8 @@
 ---
 
 [wordbook.zip](https://github.com/darkgreensky/wordbook/releases/tag/0.1)
+如果无法添加单词 请以管理员身份运行
+
 
 开发用的QT 6.3
 
